@@ -46,7 +46,7 @@ Navigate to http://localhost/phpmyadmin/ in your web browser.
 
 Click on "New" in the left-hand sidebar to create a new database.
 
-Name the database (e.g., project_db) and click Create.
+Name the database mywebsite_db and click Create.
 
 Select your new database, click the Import tab at the top, and choose the .sql file included in this repository.
 
