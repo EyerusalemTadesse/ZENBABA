@@ -69,6 +69,7 @@ Once the database is imported and the configuration is saved, you can view the p
 http://localhost/zenbaba/
 
 User Registration
+
 To create a new account within the application:
 
 Open the application in your browser and click on the Register
