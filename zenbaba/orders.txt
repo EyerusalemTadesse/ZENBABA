@@ -1,0 +1,22 @@
+{"customer":"Bezawit Kifle","email":"bezawitkaye@gmail.com","cart":{"1":2},"date":"2026-01-24 12:46:21"}
+-----------------------------
+Date: 2026-01-24 13:59:00
+Name: Bezawit Kifle
+Phone: 0967
+Address: aa
+Items:
+- Traditional Sefed Basket x 1
+- Ethiopian Mesob x 1
+Total: 2,400.00 ETB
+-----------------------------
+
+-----------------------------
+Date: 2026-01-24 14:48:07
+Name: Bezawit Kifle
+Phone: 0967
+Address: aa
+Items:
+- Sefed – Traditional Ethiopian Basket x 2
+Total: 1,600.00 ETB
+-----------------------------
+
