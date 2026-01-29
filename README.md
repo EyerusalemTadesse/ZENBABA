@@ -4,6 +4,12 @@ Zenbaba Market is inspired by the story of a talented woman who creates beautifu
 Her story reflects a larger reality. Thousands of skilled artisans across Ethiopia create high quality handmade items, yet face limited access to markets.
 Zenbaba Bridges this gap - Turning individual creativity into a Trusted, Accessible, and Scalable brand.
 
+## Group members- Team5 
+
+Bezawit Kifle(GSE/7790/17)
+Eyerusalem Tadesse(GSE/0441/17)  
+Tamrat Ayana( GSE/7202/17)
+
 # Zenbaba – PHP & MySQL Web Application
 
 ## 📌 Description
