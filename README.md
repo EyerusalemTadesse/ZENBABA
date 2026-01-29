@@ -37,3 +37,47 @@ zenbaba/
 ├── database/
 │   └── mywebsite_db.sql
 
+## 🚀 Local Setup Instructions (XAMPP)
+
+Follow these steps to get this project running on your local machine using XAMPP.
+
+### 1. Prerequisites
+* **XAMPP** installed (Download at [apachefriends.org](https://www.apachefriends.org/))
+* **Git** installed (optional, for cloning)
+
+---
+
+### 2. Installation & Directory Setup
+1. Open your XAMPP installation directory (usually `C:/xampp` on Windows).
+2. Navigate to the `htdocs` folder.
+3. Clone this repository or extract the ZIP file into a new folder:
+   cd C:/xampp/htdocs
+   git clone [https://github.com/USERNAME/REPOSITORY_NAME.git](https://github.com/USERNAME/REPOSITORY_NAME.git) project-folder
+
+Database Setup
+Open the XAMPP Control Panel and start Apache and MySQL.
+
+Navigate to http://localhost/phpmyadmin/ in your web browser.
+
+Click on "New" in the left-hand sidebar to create a new database.
+
+Name the database (e.g., project_db) and click Create.
+
+Select your new database, click the Import tab at the top, and choose the .sql file included in this repository.
+
+Scroll down and click Import (or Go).
+
+Configuration
+Update the database connection settings to match your local XAMPP environment. Locate the configuration file (typically config.php, database.php, or .env) and apply the following settings:
+
+PHP
+// Example configuration settings
+$host = "localhost";
+$username = "root";
+$password = ""; // XAMPP default is empty
+$dbname = "project_db"; // The name you created in Step 3
+
+Running the Application
+Once the database is imported and the configuration is saved, you can view the project by typing the following URL into your browser:
+
+http://localhost/zenbaba/
