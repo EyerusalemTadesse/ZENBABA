@@ -22,21 +22,6 @@ The application runs locally on `localhost` and uses a MySQL database for data s
 - Visual Studio Code
 
 ---
-
-## 📂 Project Structure
-```text
-zenbaba/
-├── README.md
-├── index.php
-├── config/
-│   └── db.php
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── database/
-│   └── mywebsite_db.sql
-
 ## 🚀 Local Setup Instructions (XAMPP)
 
 Follow these steps to get this project running on your local machine using XAMPP.
@@ -52,7 +37,7 @@ Follow these steps to get this project running on your local machine using XAMPP
 2. Navigate to the `htdocs` folder.
 3. Clone this repository or extract the ZIP file into a new folder:
    cd C:/xampp/htdocs
-   git clone [https://github.com/USERNAME/REPOSITORY_NAME.git](https://github.com/USERNAME/REPOSITORY_NAME.git) project-folder
+   git clone (https://github.com/EyerusalemTadesse/ZENBABA/) project-folder
 
 Database Setup
 Open the XAMPP Control Panel and start Apache and MySQL.
@@ -81,3 +66,17 @@ Running the Application
 Once the database is imported and the configuration is saved, you can view the project by typing the following URL into your browser:
 
 http://localhost/zenbaba/
+
+## 📂 Project Structure
+zenbaba/
+├── README.md
+├── index.php
+├── config/
+│   └── db.php
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── database/
+│   └── mywebsite_db.sql
+
