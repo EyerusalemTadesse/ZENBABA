@@ -40,6 +40,7 @@ Follow these steps to get this project running on your local machine using XAMPP
    git clone (https://github.com/EyerusalemTadesse/ZENBABA/) project-folder
 
 Database Setup
+
 Open the XAMPP Control Panel and start Apache and MySQL.
 
 Navigate to http://localhost/phpmyadmin/ in your web browser.
@@ -66,6 +67,34 @@ Running the Application
 Once the database is imported and the configuration is saved, you can view the project by typing the following URL into your browser:
 
 http://localhost/zenbaba/
+
+User Registration
+To create a new account within the application:
+
+Open the application in your browser and click on the Register
+
+Fill in the required fields (Full Name, Email, Password and phone number).
+
+Click Register.
+
+Upon success, your information will be stored in the users table of your local database.
+
+Accessing the Application
+
+Once registered, you can log in to access the full features of the project:
+
+Navigate to the Login page.
+
+Enter the Email and Password you used during registration.
+
+Click Login to be redirected to the user dashboard.
+
+Testing Credentials 
+
+If you have already imported the .sql file, you can use these default admin credentials to test the system immediately:
+
+Email: - admin@yourdomain.com
+Password: - admin123
 
 ## 📂 Project Structure
 zenbaba/
